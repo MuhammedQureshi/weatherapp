@@ -21,8 +21,3 @@ Make sure you have the following software installed on your local machine:
 - Node.js: [Download and install Node.js](https://nodejs.org/en/download/)
 - Git: [Download and install Git](https://git-scm.com/downloads)
 
-### Installation
-
-1. Clone the repository:
-
-{git clone https://github.com/MuhammedQureshi/weatherapp.git}
